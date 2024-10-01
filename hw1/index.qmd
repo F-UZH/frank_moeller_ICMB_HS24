@@ -1,0 +1,16 @@
+---
+title: "Assignment 1: Hello World"
+author: "Frank Moeller"
+---
+
+# Assignment 1
+
+## free text
+
+In this introductory assignment, I just want to make a simple plot. It was copied from the notifications section on OLAT
+
+## simple plot
+
+```         
+```{r} x <- rnorm(10000, mean = 100, sd = 15) hist(x) ```
+```
