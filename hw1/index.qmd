@@ -11,6 +11,7 @@ In this introductory assignment, I just want to make a simple plot. It was copie
 
 ## simple plot
 
-```         
-```{r} x <- rnorm(10000, mean = 100, sd = 15) hist(x) ```
+```{r}
+x <- rnorm(10000, mean = 100, sd = 15)
+hist(x)
 ```
