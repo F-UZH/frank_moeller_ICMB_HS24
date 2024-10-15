@@ -1,10 +1,17 @@
 [
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n\nCode\n1 + 1\n\n\n[1] 2\n\n\n\n\n\n\n\n Back to top"
+  },
+  {
     "objectID": "hw1/index.html",
     "href": "hw1/index.html",
     "title": "Assignment 1: Hello World",
     "section": "",
-    "text": "In this introductory assignment, I just want to make a simple plot. It was copied from the notifications section on OLAT\n\n\n\nx &lt;- rnorm(10000, mean = 100, sd = 15)\nhist(x)"
+    "text": "In this introductory assignment, I just want to make a simple plot. It was copied from the notifications section on OLAT\n\n\n\n\n\nCode\nx &lt;- rnorm(10000, mean = 100, sd = 15)\nhist(x)"
   },
   {
     "objectID": "hw1/index.html#free-text",
@@ -18,6 +25,13 @@
     "href": "hw1/index.html#simple-plot",
     "title": "Assignment 1: Hello World",
     "section": "",
-    "text": "x &lt;- rnorm(10000, mean = 100, sd = 15)\nhist(x)"
+    "text": "Code\nx &lt;- rnorm(10000, mean = 100, sd = 15)\nhist(x)"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "frank_moeller_ICMB_HS24",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n\nCode\n1 + 1\n\n\n[1] 2\n\n\n\n\n\n\n\n Back to top"
   }
 ]
